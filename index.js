@@ -10,7 +10,7 @@ var fs = require("fs");
 
 //首页显示内容
 app.get("/", function (req, res) {
-  res.send("Hello world!");
+  res.send("Hello cyclic!");
 });
 
 //启动web
